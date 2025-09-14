@@ -5,11 +5,11 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BukhryakovAY.Sprint1.Task0.V0", "Tyuiu.BukhryakovAY.Sprint1.Task0.V0\Tyuiu.BukhryakovAY.Sprint1.Task0.V0.csproj", "{2A279730-D34A-4471-AA2B-70D9AF8D1351}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BukhryakovAY.Sprint1.Task0.V1", "Tyuiu.BukhryakovAY.Sprint1.Task0.V0\Tyuiu.BukhryakovAY.Sprint1.Task0.V1.csproj", "{2A279730-D34A-4471-AA2B-70D9AF8D1351}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Lib", "Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Lib\Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Lib.csproj", "{69AF0318-5C23-48E5-B62D-7BE1A67AF136}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BukhryakovAY.Sprint1.Task0.V1.Lib", "Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Lib\Tyuiu.BukhryakovAY.Sprint1.Task0.V1.Lib.csproj", "{69AF0318-5C23-48E5-B62D-7BE1A67AF136}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Test", "Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Test\Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Test.csproj", "{B3249C82-3FC6-41E5-BF18-44A0A638D820}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BukhryakovAY.Sprint1.Task0.V1.Test", "Tyuiu.BukhryakovAY.Sprint1.Task0.V0.Test\Tyuiu.BukhryakovAY.Sprint1.Task0.V1.Test.csproj", "{B3249C82-3FC6-41E5-BF18-44A0A638D820}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
