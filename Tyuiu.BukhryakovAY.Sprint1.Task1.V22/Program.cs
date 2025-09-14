@@ -6,15 +6,15 @@ internal class Program
         DataService ds = new DataService();
 
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* Спринт #0                                                               *");
-        Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
-        Console.WriteLine("* Задание #7                                                              *");
-        Console.WriteLine("* Вариант #0                                                              *");
-        Console.WriteLine("* Выполнил: Спирин Игорь Сергеевич | ПКТб-23-1                            *");
+        Console.WriteLine("* Спринт #1                                                               *");
+        Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
+        Console.WriteLine("* Задание #1                                                              *");
+        Console.WriteLine("* Вариант #22                                                              *");
+        Console.WriteLine("* Выполнил: Бухряков Артём Юрьевич | ПКТб-25-1                            *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
-        Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *");
-        Console.WriteLine("* одиныковых массивов по длинне.                                          *");
+        Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные,  *");
+        Console.WriteLine("* вычисляет результат по формуле (5+x)/(y*x) и печатает его на экране.    *");
         Console.WriteLine("*                                                                         *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
