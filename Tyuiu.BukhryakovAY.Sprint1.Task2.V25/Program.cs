@@ -13,8 +13,9 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine("Угол в радианах X - " + ds.ConvertRadsToDegrees(x));
+        var res = ds.ConvertRadsToDegrees(x);
+        res = Math.Round(res,3);
+        Console.WriteLine("Угол в радианах X - " + res);
         Console.ReadLine();
-
     }
 }
