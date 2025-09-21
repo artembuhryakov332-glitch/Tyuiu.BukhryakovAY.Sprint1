@@ -5,7 +5,9 @@ namespace Tyuiu.BukhryakovAY.Sprint1.Task2.V25.Lib
     {
         public double ConvertRadsToDegrees(int value)
         {
-            return (value * 180) / Math.PI;
+            var res = (value * 180) / Math.PI;
+            res = Math.Round(res,3);
+            return res;
         }
     }
 }
