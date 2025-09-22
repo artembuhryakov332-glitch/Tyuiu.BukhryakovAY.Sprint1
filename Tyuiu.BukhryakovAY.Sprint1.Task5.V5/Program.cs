@@ -1,0 +1,15 @@
+﻿using System.Globalization;
+using Tyuiu.BukhryakovAY.Sprint1.Task5.V5.Lib;
+DataService ds = new DataService();
+IFormatProvider formatter = CultureInfo.InvariantCulture;
+Console.WriteLine("***************************************************************************");
+Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+Console.WriteLine("***************************************************************************");
+Console.WriteLine("Введите число X: ");
+double x = double.Parse(Console.ReadLine(), formatter);
+Console.WriteLine("***************************************************************************");
+Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+Console.WriteLine("***************************************************************************");
+Console.WriteLine("Первое число после целой части: ");
+int res = Convert.ToInt32(ds.Calculate(x));
+Console.WriteLine(res);
